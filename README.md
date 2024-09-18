@@ -121,6 +121,10 @@ https://github.com/user-attachments/assets/529579b3-cdb2-4b1f-8304-fd242705937e
 
 
 
+https://github.com/user-attachments/assets/c5ce4634-94d1-4bc4-9ac5-0507c1134d3c
+
+
+
 ***Notes**:
 
 The trained policy does not understand that the objective of the task is to move in a specific direction. If the car happens to crash and flip around, the policy will simply drive the course backwards, and this results in severe negative results (the worst episodes are sometimes very negative, suggesting driving much more in the wrong direction than the right one).
