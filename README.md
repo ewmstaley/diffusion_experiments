@@ -116,7 +116,7 @@ Diffusion Policy (20 Diffusion Steps):
 
 #### Video of Deployed Policy:
 
-https://github.com/ewmstaley/diffusion_experiments/blob/main/assets/policy_video_short_2.mp4
+https://github.com/user-attachments/assets/8177b621-be12-44fa-b4a0-f7e4e7261408
 
 
 
