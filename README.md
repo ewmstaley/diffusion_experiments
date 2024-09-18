@@ -116,7 +116,7 @@ Diffusion Policy (20 Diffusion Steps):
 
 #### Video of Deployed Policy:
 
-<video src="./assets/policy_video_short_2.mp4" />
+<video src="https://github.com/ewmstaley/diffusion_experiments/blob/main/assets/policy_video_short_2.mp4" />
 
 
 
