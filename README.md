@@ -115,10 +115,7 @@ Diffusion Policy (20 Diffusion Steps):
 
 
 #### Video of Deployed Policy:
-
-https://github.com/user-attachments/assets/8177b621-be12-44fa-b4a0-f7e4e7261408
-
-
+Apologies for the pause at the beginning.
 https://github.com/user-attachments/assets/529579b3-cdb2-4b1f-8304-fd242705937e
 
 
