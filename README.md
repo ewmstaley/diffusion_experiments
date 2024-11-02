@@ -1,6 +1,6 @@
 # Diffusion Implementation
 
-This is a simple implementation of DDPM and DDIM, with examples of image diffusion. This previously had an example of diffusion policy, but this has been moved to its own repo.
+This is a simple implementation of DDPM and DDIM, with examples of image diffusion. This previously had an example of diffusion policy, but this has been moved [to its own repo](https://github.com/ewmstaley/diffusion_policies).
 
 This work is Copyright © 2024 The Johns Hopkins University Applied Physics Laboratory LLC, please see the LICENSE file.
 
